@@ -1,0 +1,17 @@
+# 联系人管理系统 - 后端
+
+基于Python Flask开发的RESTful API后端服务。
+
+## 功能
+- 联系人数据存储
+- RESTful API接口
+- SQLite数据库
+
+## 技术栈
+- Python 3
+- Flask
+- SQLite
+
+## 启动方式
+```bash
+python app.py
